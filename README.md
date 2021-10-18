@@ -1,4 +1,7 @@
 # Metaversity Project Readme Barebones
+
+[![hackmd-github-sync-badge](https://hackmd.io/dLAAQ53zQoeaoA3RYt5D3w/badge)](https://hackmd.io/dLAAQ53zQoeaoA3RYt5D3w)
+
 ###### tags: `metaversity`
 
 - [OMI Github Strategy](/msSrKU3NQv2QO8_aU5IhHQ)
