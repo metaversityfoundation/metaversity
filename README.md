@@ -48,18 +48,10 @@ Eventually we will have more options for metaverse contributors. Beyond develope
 ## :dart: Goals: What do we hope to accomplish? (TBD)
 ### Objective I: Increase the number of Metaverse contributors and creators. 
 ### Objective II: Organically create sustainable value
-### 
+### Objective III: Launch first curriculums* 
 KR: Craft 3 journey maps of people becoming metaverse creators
 KR: Establish curriculum for each archetype. 
 
-## How will we track progress / measure success? (TBD)
-
-
-## Where to we start? 
-
-- high level 
-- it's hard to get involved with metaverse development without a little 3D and a little programming skills, you kinda have to know a bit of both.
-    - "I am in figma, blender, vscode, github, photoshop every day"
 
 
 ```
@@ -75,13 +67,6 @@ KR: Establish curriculum for each archetype.
 
 
 
-We have a variety of types of people 
-informs what the education is 
-the voice is if that makes sense 
-what are we seeking? 
-
-
-
 
 ----
 
@@ -90,4 +75,3 @@ what are we seeking?
 Relevant: 
 
 - https://youtu.be/_eWt7OBWe7g
-- 
