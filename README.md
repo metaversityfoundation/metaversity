@@ -8,11 +8,10 @@
 
 ## About
 
-### Who is involved? 
+### Who is involved in making this happen? 
 
 - Wide variety of people, with a wide range of Knowledge, Skills, Abilities, and Interests. 
 - Hopefully multiple orgs are part of this creation, as multiple orgs have something like this on their backlogs and roadmaps. 
-- 
 
 
 ### Where do we work? What channels do we use to communicate? 
@@ -21,6 +20,7 @@
     - backlog strategy 
 - We have a [prototype](https://metaversity.foundation/)
 - [OMI Github Strategy](/msSrKU3NQv2QO8_aU5IhHQ)
+- Our most recent [Meeting Notes from 10/18/21](https://github.com/metaversityfoundation/metaversity/discussions/3) is available on our github. 
 
 ## :bulb: Why are we here? 
 
@@ -84,9 +84,7 @@ what are we seeking?
 
 ----
 
-Notes for next meeting: 
 
-![](https://hackmd.io/_uploads/rkn4Tz9Nt.png)
 
 Relevant: 
 
