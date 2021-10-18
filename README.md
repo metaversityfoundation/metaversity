@@ -17,7 +17,8 @@
 ### Where do we work? What channels do we use to communicate? 
 - We have a [Metaversity discord](https://discord.gg/XRnxur9kqm)
 - We have a [Metaversity github](https://github.com/metaversityfoundation)
-    - backlog strategy 
+    - [backlog strategy doc](https://github.com/metaversityfoundation/metaversity/issues/4)
+    - Good first issue [Watch this video](https://github.com/metaversityfoundation/metaversity/issues/5)
 - We have a [prototype](https://metaversity.foundation/)
 - [OMI Github Strategy](/msSrKU3NQv2QO8_aU5IhHQ)
 - Our most recent [Meeting Notes from 10/18/21](https://github.com/metaversityfoundation/metaversity/discussions/3) is available on our github. 
