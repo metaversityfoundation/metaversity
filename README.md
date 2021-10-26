@@ -25,6 +25,8 @@
 
 ## :bulb: Why are we here? 
 
+>"I wanted to take all of my bookmarks that helped me become a webxr dev, and create a wiki that would help others" - Liam
+
 We want to organically create value by helping others become Metaverse creators and contributors. We want to find creative ways to sustain ourselves. We want to create incentive structures that align with peoples values. 
 
 People need something that keeps them focused, and moving forward on their mission to get involved with the Metaverse. It can be easy to run into a roadblock, and get deflated or distracted. We want to make achieving the goal of becoming or improving as a Metaverse creator more attainable. We want to create incentive structures that align with peoples values. 
