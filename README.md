@@ -77,3 +77,4 @@ KR: Establish curriculum for each archetype.
 Relevant: 
 
 - https://youtu.be/_eWt7OBWe7g
+- Here is the notion workspace that Oliver put together for keeping track of our inquiries and notes about AZPO https://www.notion.so/globalrenaissance/MetaUniversity-X-AZPO-aabb0db206af4cecad29dd193ae00955
