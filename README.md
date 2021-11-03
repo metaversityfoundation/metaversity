@@ -1,4 +1,4 @@
-# Metaversity Project Readme Barebones
+# Metaversity Readme
 
 [![hackmd-github-sync-badge](https://hackmd.io/dLAAQ53zQoeaoA3RYt5D3w/badge)](https://hackmd.io/dLAAQ53zQoeaoA3RYt5D3w)
 
@@ -7,6 +7,8 @@
 - [OMI Github Strategy](/msSrKU3NQv2QO8_aU5IhHQ)
 
 ## About
+
+Metaversity is an open source project dedicated to helping people become new or improved metaverse creators.
 
 ### Who is involved in making this happen? 
 
