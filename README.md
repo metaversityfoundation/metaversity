@@ -4,7 +4,7 @@
 
 ###### tags: `metaversity`
 
-- [OMI Github Strategy](/msSrKU3NQv2QO8_aU5IhHQ)
+- [OMI Github Strategy](https://hackmd.io/@mrmetaverse/omi-github-process)
 
 ## About
 
