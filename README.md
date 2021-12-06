@@ -10,10 +10,11 @@
 
 Metaversity is an open source project dedicated to helping people become new or improved metaverse creators.
 
-### Who is involved in making this happen? 
+### How to get involved 
 
-- A wide variety of people, with a wide range of Knowledge, Skills, Abilities, and Interests. 
-- We hope multiple orgs are part of this creation, as multiple orgs have something like this on their backlogs and roadmaps, and the entire metaverse benefits when we increase the number of creators. 
+We meet every other Monday at 22:00 UTC :calendar: add these events to your [google calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=aHJlaW9iM2oyOG43Y2xtb2owcXVpYzA5MHBfMjAyMTEyMjBUMjIwNTAwWiBqZXNzZUBhbmdlbGx4ci5jb20&tmsrc=jesse%40angellxr.com&scp=ALL)
+
+We use Github to self organize around github [milestones](https://github.com/metaversityfoundation/metaversity/milestones) and [discussions](https://github.com/metaversityfoundation/metaversity/discussions).
 
 ## :bulb: Why are we here? 
 
@@ -29,7 +30,7 @@ Eventually we will have more options for metaverse contributors. Beyond develope
 
 >_The metaverse is the vehicle by which we all wake up to the game we are already playing._ - gheric
 
-## :woman: Who are we serving? 
+## :woman: Who is impacted by our work? 
 
 - People building the Metaverse 
 - People who want to become Metaverse developers 
